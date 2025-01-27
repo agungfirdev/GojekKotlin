@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Gojek</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="welcome_text">Dengan masuk atau mendaftar, kamu menyetujui Ketentuan Layanan dan Kebijakan Privasi.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="desc_welcome">Aplikasi yang bikin hidup kamu lebih nyaman. Siap bantuin semua kebutuhanu, kapan pun, dan di mana pun.</string>
+    <string name="title_welcome">Selamat datang di Gojek!</string>
+    <string name="go_ride">GoRide</string>
+    <string name="go_car">GoCar</string>
+    <string name="go_food">GoFood</string>
+    <string name="promo">Promo</string>
+    <string name="home">Home</string>
+    <string name="chat">Chat</string>
+    <string name="id">ID</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="choose_language">Pilihan bahasa</string>
+    <string name="what_language_do_you_want_to_use">Mau pakai bahasa apa?</string>
+    <string name="en">EN</string>
+    <string name="english">English</string>
+    <string name="th">TH</string>
+    <string name="vi">VI</string>
+    <string name="thailand">Thailand</string>
+    <string name="vietnam">Vietnam</string>
+    <string name="close">Close</string>
+    <string name="gopay_balance">Gopay Balance</string>
+    <string name="pay">Pay</string>
+    <string name="top_up">Top Up</string>
+    <string name="explore">Explore</string>
+    <string name="go_send">GoSend</string>
+    <string name="headline_search_1">Pesen kopi yuk!</string>
+</resources>
